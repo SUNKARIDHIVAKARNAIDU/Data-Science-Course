@@ -1,0 +1,21 @@
+Student_ID,Name,Math,Science,English,Attendance_Percent,Average_Marks,Performance
+S001,Aarav Sharma,85,47,51,93,61.0,Average
+S002,Diya Patel,62,55,64,74,60.33,Average
+S003,Rohan Kumar,92,46,93,93,77.0,Good
+S004,Ananya Reddy,79,45,87,83,70.33,Good
+S005,Arjun Singh,47,41,55,76,47.67,Needs Improvement
+S006,Ishita Rao,59,72,88,70,73.0,Good
+S007,Vihaan Mehta,80,52,95,90,75.67,Good
+S008,Meera Nair,89,74,76,77,79.67,Good
+S009,Aditya Verma,73,77,67,95,72.33,Good
+S010,Sneha Das,45,88,60,92,64.33,Average
+S011,Kabir Shah,72,61,67,74,66.67,Average
+S012,Pooja Iyer,58,88,71,73,72.33,Good
+S013,Rahul Joshi,50,64,56,81,56.67,Average
+S014,Nisha Gupta,99,62,88,78,83.0,Good
+S015,Karan Malhotra,96,42,96,84,78.0,Good
+S016,Aditi Kapoor,79,47,74,72,66.67,Average
+S017,Siddharth Jain,80,58,90,89,76.0,Good
+S018,Priya Menon,68,76,62,92,68.67,Average
+S019,Dev Agarwal,49,42,92,77,61.0,Average
+S020,Riya Bose,94,58,55,97,69.0,Average
